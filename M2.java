@@ -1,5 +1,6 @@
 public class M2 {
     public static void main(String[] args) {
-        System.out.println("hiiiiiiiii");
+        System.out.println("helloo");
+        System.out.println("sheela");
     }
 }
